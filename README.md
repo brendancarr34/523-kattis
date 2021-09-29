@@ -1,5 +1,5 @@
 # 523-kattis
-Python web application for creating coding problems, allow students to submit files, nad receive immediate feedback.
+Python web application for creating coding problems, submitting coding solutions, and receiving immediate feedback.
 
 ### Restrictions
 Kattis Problem Practice Tool repository runs strictly within UNC Computer Science's ada.cs.unc.edu server. Compiling and running this file system will not work elsewhere. 
